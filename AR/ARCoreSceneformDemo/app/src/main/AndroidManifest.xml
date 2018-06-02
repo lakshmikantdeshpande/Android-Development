@@ -3,9 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="ldeshpande.com.arcoresceneformdemo">
 
-
     <uses-permission android:name="android.permission.CAMERA" />
-
     <uses-feature android:name="android.hardware.camera.ar" android:required="true"/>
 
     <application
